@@ -1,0 +1,6 @@
+/.idea/
+/images/*.*
+/__pycache__/
+/venv/
+line_secret_key.txt
+line_secret_key_readbook.txt
