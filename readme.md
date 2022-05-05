@@ -1,4 +1,5 @@
 # 會說話的故事書
+> 這是一個在Line上的APP應用，透過相機掃描IKEA說明書上的圖片，將會轉換成對應的文字，讓使用者明白圖像的意境。
 ## BeautifulSoup
 爬取Ikea說明書
 ## CNN Keras
